@@ -7,4 +7,6 @@
 [tutor](https://pytorch.org/TensorRT/user_guide/runtime.html), [tutor](https://pytorch.org/TensorRT/tutorials/use_from_pytorch.html)
 3. [torch compiler](https://pytorch.org/docs/stable/torch.compiler.html#torch-compiler-overview)
 4. [intel extention for pytorch](https://intel.github.io/intel-extension-for-pytorch/#introduction)
-5. 
+5. [pytorch benchmark](https://pytorch.org/tutorials/recipes/recipes/benchmark.html)
+
+[CUDA Compute Capability with GPU](https://en.wikipedia.org/wiki/CUDA#GPUs_supported)
